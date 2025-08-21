@@ -1,6 +1,6 @@
 # NestableCollection
 
-[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 
 A Laravel Package that extends collections to handle nested items following adjacency list model.
 
